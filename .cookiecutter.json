@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/fpfortkamp/projects",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "F\u00e1bio Fortkamp",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "fabio@fabiofortkamp.com",
+  "friendly_name": "Correlations for Specific Heat of Gases",
+  "github_user": "fabiofortkamp",
+  "license": "MIT",
+  "package_name": "cpgas",
+  "project_name": "cp-gas",
+  "version": "0.0.0"
+}
